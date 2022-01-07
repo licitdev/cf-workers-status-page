@@ -3,7 +3,7 @@ name: Deploy
 on:
   push:
     branches:
-      - main
+      - nodes
   repository_dispatch:
   workflow_dispatch:
 #   schedule:
