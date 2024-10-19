@@ -47,6 +47,11 @@ monitors:
     name: gcc2
     url: 'https://gcc2.licit.dev/'
     linkable: false
+
+  - id: gcc3
+    name: gcc3
+    url: 'https://gcc3.licit.dev/'
+    linkable: false
     
   - id: gcs1
     name: gcs1
