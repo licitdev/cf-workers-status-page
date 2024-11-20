@@ -38,16 +38,6 @@ monitors:
 #     method: GET
 #     expectStatus: 200
 
-  - id: gcc1
-    name: gcc1
-    url: 'https://gcc1.licit.dev/'
-    linkable: false
-    
-  - id: gcc2
-    name: gcc2
-    url: 'https://gcc2.licit.dev/'
-    linkable: false
-
   - id: gcc3
     name: gcc3
     url: 'https://gcc3.licit.dev/'
