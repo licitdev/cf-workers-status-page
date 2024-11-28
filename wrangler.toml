@@ -1,4 +1,4 @@
-name = "nodes-checker"
+name = "nodes-checker-production"
 workers_dev = true
 account_id = ""
 type = "webpack"
