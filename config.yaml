@@ -52,3 +52,8 @@ monitors:
     name: rnc1
     url: 'https://rnc1.licit.dev/'
     linkable: false
+
+  - id: ha
+    name: ha
+    url: 'https://ha.licit.dev/'
+    linkable: false
